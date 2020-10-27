@@ -29,6 +29,7 @@ print(cv.__version__)
 If the results are printed out without any errors, congratulations !!! You have installed OpenCV-Python successfully.
 
 ## Table of Contents
-<b>Chapter 1:</b> Image I/O Operations (Read, write, display) <br>
-<b>Chapter 2:</b> Basic Operations (Resize, RGB extraction, Cropping, Rotate, Flip)  
-
+<b>01:</b> Image I/O Operations <br>
+<b>02:</b> Basic Operations <br>
+<b>03:</b> Image Convolution and Filtering <br>
+<b>04:</b> Image gradients and Edge Detection <br>
