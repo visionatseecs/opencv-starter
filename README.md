@@ -33,3 +33,4 @@ If the results are printed out without any errors, congratulations !!! You have 
 <b>02:</b> [Basic Operations](././02.ipynb)<br>
 <b>03:</b> [Image Convolution and Filtering](././03.ipynb) <br>
 <b>04:</b> [Image gradients and Edge Detection](././04.ipynb) <br>
+<b>04:</b> [Image gradients and Edge Detection](././05.ipynb) <br>
