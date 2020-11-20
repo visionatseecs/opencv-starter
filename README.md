@@ -34,4 +34,4 @@ If the results are printed out without any errors, congratulations !!! You have 
 <b>03: </b> [Image Convolution and Filtering](././03.ipynb) <br>
 <b>04: </b> [Image gradients and Edge Detection](././04.ipynb) <br>
 <b>05: </b> [Image Pyramids](././05.ipynb) <br>
-<b>05: </b> [Local Image Features](././06.ipynb) <br>
+<b>06: </b> [Local Image Features](././06.ipynb) <br>
