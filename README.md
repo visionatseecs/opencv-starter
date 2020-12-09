@@ -36,3 +36,4 @@ If the results are printed out without any errors, congratulations !!! You have 
 <b>05: </b> [Image Pyramids](././05.ipynb) <br>
 <b>06: </b> [Local Image Features](././06.ipynb) <br>
 <b>07: </b> [MNIST Classification using HOG features and Linear SVM](././07.ipynb) <br>
+<b>08: </b> [Bag of Visual Words Model](././08.ipynb) <br>
